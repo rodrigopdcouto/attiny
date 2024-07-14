@@ -1720,7 +1720,7 @@
               "checksum": "SHA-256:db8f92750d1c94669ba5d8b46e72d27d28ec927a19344cf42b7ae7bd1b5c30c9",
               "host": "x86_64-mingw32",
               "archiveFileName": "micronucleus-cli-2.5-azd1b-x86_64-mingw32.zip",
-              "url": "https://azduino.com/bin/micronucleus/micronucleus-cli-2.5-azd1b-x86_64-mingw32.zip"
+              "url": "https://github.com/rodrigopdcouto/attiny/raw/main/micronucleus-cli-2.5-azd1-x86_64-mingw32.tar.bz2"
             },
             {
               "size": "1159717",
